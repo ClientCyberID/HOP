@@ -715,8 +715,8 @@ section {
 
 .cta {
     background: linear-gradient(rgba(66, 84, 81, 0.5), rgba(43, 56, 54, 0.5)), url("../img/bg/Industris.jpg") fixed center center;
-    background-size: cover;
-    padding: 100px 0;
+    background-size: 100%;
+    padding: 120px 0;
 }
 
 .cta h3 {
